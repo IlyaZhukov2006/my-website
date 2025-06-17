@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pink Floyd - Альбомы</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Pink Floyd</h1>
+        <hr>
+        <table>
+            <tr>
+                <td><a href="website.html">Главная</a></td>
+                <td><a href="about.html">Дискография</a></td>
+                <td><a href="contact.html">Обратная связь</a></td>
+            </tr>
+        </table>
+        <h2 class="key-albums">Дискография</h2>
+        <div class="album-gallery">
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\PinkFloyd_PiperAtTheGatesOfDawn.jpg" width="200" height="201">
+                <a href="piper_of_the.html">"The Piper at the Gates of Dawn"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Saucerful_of_secrets2.jpg" width="200" height="201">
+                <a href="Saucerful.html">"A Saucerful of Secrets"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\More_Pink_Floyd_Cover.jpg" width="200" height="201">
+                <a href="More.html">"More"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\PinkFloyd-album-ummagummastudio-300.jpg" width="200" height="201">
+                <a href="Ummagumma.html">"Ummagumma"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\images.jpg" width="200" height="201">
+                <a href="Atom_Heart_Mother.html">"Atom Heart Mother"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Meddle_album_cover.jpg" width="200" height="201">
+                <a href="Meddle.html">"Meddle"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Pink_Floyd_-_Obscured_by_Clouds.jpg" width="200" height="201">
+                <a href="Obscured.html">"Obscured by Clouds"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\dark_side.jpg" width="200" height="201">
+                <a href="dark_side.html">"The Dark Side of the Moon"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\WishYouWereHere.jpg" width="200" height="200">
+                <a href="wish_you.html">"Wish You Were Here"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Animals.jpg" width="200" height="200">
+                <a href="animals.html">"Animals"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\the_wall.jpg" width="200" height="200">
+                <a href="the_wall.html">"The Wall"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Thefinalcutcover.jpg" width="200" height="201">
+                <a href="The_Final.html">"The Final Cut"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Lapse-l.jpg" width="200" height="201">
+                <a href="Lapse_of_Reason.html">"A Momentary Lapse of Reason"</a>
+            </div>
+            <div>
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Pink_floyd_—_The_Division_Bell_front.jpg" width="200" height="201">
+                <a href="The_Division_Bell.html">"The Division Bell"</a>
+            </div>
+            <div>  
+                <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Pink_Floyd_-_The_Endless_River_(Artwork).jpg" width="200" height="201">
+                <a href="The_Endless_River.html">"The Endless River"</a>
+            </div>
+        </div>
+    </body>
+</html>

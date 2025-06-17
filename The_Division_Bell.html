@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pink Floyd - The Division Bell</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Pink Floyd</h1>
+        <hr>
+        <table>
+            <tr>
+                <td><a href="website.html">Главная</a></td>
+                <td><a href="about.html">Дискография</a></td>
+                <td><a href="contact.html">Обратная связь</a></td>
+            </tr>
+        </table>
+        <h2 class="key-albums">The Division Bell</h2>
+        <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Pink_floyd_—_The_Division_Bell_front.jpg" vspace="4" hspace="25" align="left" width="300" height="300">
+        <p>
+            "The Division Bell" — четырнадцатый студийный альбом Pink Floyd, выпущенный 28 марта 1994 года. 
+            Альбом исследует темы общения и человеческих отношений, с акцентом на мелодичное и атмосферное звучание.
+            <br>
+            <br>
+            "High Hopes" и "Marooned" выделяются эмоциональной глубиной и гитарной работой Гилмора. 
+            Работа получила признание за свою зрелость и стала одной из последних студийных записей группы.
+        </p>
+        <br style="clear: left;">
+    </body>
+</html>

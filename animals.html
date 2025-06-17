@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pink Floyd - Animals</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Pink Floyd</h1>
+        <hr>
+        <table>
+            <tr>
+                <td><a href="website.html">Главная</a></td>
+                <td><a href="about.html">Дискография</a></td>
+                <td><a href="contact.html">Обратная связь</a></td>
+            </tr>
+        </table>
+        <h2 class="key-albums">Animals</h2>
+        <img src="C:\Users\honor\Desktop\pinkfloydproject\frontend\images\Animals.jpg" vspace="4" hspace="25" align="left" width="300" height="300">
+        <p>
+            "Animals" — десятый студийный альбом Pink Floyd, выпущенный 23 января 1977 года. 
+            Вдохновлённый «Скотным двором» Джорджа Оруэлла, альбом критикует общество через метафоры животных (свиньи, собаки, овцы).
+             Отличается длинными композициями и мрачным тоном.
+            <br>
+            <br>
+            "Dogs" демонстрирует гитарное мастерство Гилмора, а "Pigs (Three Different Ones)" — резкую критику власти.
+            В целом альбом выделяется сырой энергией и политическими темами.
+        </p>
+        <br style="clear: left;">
+    </body>
+</html>
